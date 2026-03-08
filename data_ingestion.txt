@@ -1,2 +1,11 @@
+<<<<<<< HEAD
 Hey, I am not ingesting the data in this file (bug is fixed).
 Mastetr here. Let me contribut to the project.
+=======
+Hey, I am ingesting the data in this file.
+Mastetr here. Let me contribut to the project.  
+
+
+
+I am fixing this bug.
+>>>>>>> bugfix_2
